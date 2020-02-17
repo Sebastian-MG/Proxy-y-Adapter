@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        AlgunNombreADeTener
-# Purpose:     Sacar Nota
-#
-# Author:      Alguien
-#
-# Created:     Hace Mucho
-# Copyright:   (c) lenovo 2020
-# Licence:     <Uranus>
-#-------------------------------------------------------------------------------
 
 import random
 
